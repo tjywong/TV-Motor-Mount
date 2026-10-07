@@ -1,0 +1,5 @@
+# Human-Detector sample videos
+Human-Detector/input_video.mp4
+Human-Detector/output_video.mp4
+.venv/
+__pycache__/
