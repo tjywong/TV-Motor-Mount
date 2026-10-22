@@ -1,0 +1,4 @@
+# Packages for person_webcam_mac.py (run with a Mac webcam)
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pyobjc-framework-AVFoundation
